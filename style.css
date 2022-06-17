@@ -1335,10 +1335,25 @@ background-color:#ea4c89
     width: 100%;
   }
   
+  .pricing-info-teatro-bilingue {
+    height: auto;
+    padding: 30px 30px;
+    border-radius: 0 0 10px 10px;
+    margin:0;
+  }
+
   .pricing-container {
     display: block;
     width: 80vw;
     margin: 0;
+  }
+
+  .pricing-maps {
+    width: 100%;
+    height: 450px;
+    border: 0;
+    border-radius: 10px 10px 0 0;
+    margin-top: 30px;
   }
 
   .pricing-aulas {
