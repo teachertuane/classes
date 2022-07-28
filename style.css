@@ -603,7 +603,7 @@ background-color:#ea4c89
     line-height: 2rem;
     text-decoration: none;
     color: #262626;
-    transition: 0.3s;
+    transition: 0.3s;    
 }
 
 .course-title:hover {
@@ -1135,8 +1135,8 @@ background-color:#ea4c89
 }
 
 .course-aditional-info div {
-    width: 50vw;
-    padding-left: 40px;
+    padding-left: 100px;
+    padding-right: 100px;
 }
 
 .course-aditional-info div h2 span {
